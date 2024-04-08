@@ -58,6 +58,8 @@ To run inference on examples frames we will use the
 "OpticalFlow-Inference.ipynb" colab in colabs/. To run the colab, make sure that
 you have installed all the required packages with the following command.
 
+**This uses python3!!**
+
 ```
 > pip install -r requirements.txt
 ```
